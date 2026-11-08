@@ -2,7 +2,7 @@
 
 I built this n8n workflow to monitor delivery records, analyze orders that may have delivery issues, and use AI to identify likely causes, classify severity, and recommend the next action.
 
-<img width="619" height="189" alt="image" src="https://github.com/user-attachments/assets/50afe6e1-cbda-4414-8a00-f65f116bf07c" />
+<img width="619" height="189" alt="Delivery Exception Management workflow demo" src="https://github.com/user-attachments/assets/50afe6e1-cbda-4414-8a00-f65f116bf07c" />
 
 ## How it works
 
